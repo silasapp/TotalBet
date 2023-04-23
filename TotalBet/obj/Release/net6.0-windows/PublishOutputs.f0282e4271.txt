@@ -1,0 +1,5 @@
+C:\Workcode\TotalBet\TotalBet\bin\publish\TotalBet.exe
+C:\Workcode\TotalBet\TotalBet\bin\publish\TotalBet.dll
+C:\Workcode\TotalBet\TotalBet\bin\publish\TotalBet.deps.json
+C:\Workcode\TotalBet\TotalBet\bin\publish\TotalBet.runtimeconfig.json
+C:\Workcode\TotalBet\TotalBet\bin\publish\TotalBet.pdb

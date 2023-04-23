@@ -1,0 +1,17 @@
+C:\Workcode\TotalBet\TotalBet\bin\Debug\net6.0-windows\TotalBet.exe
+C:\Workcode\TotalBet\TotalBet\bin\Debug\net6.0-windows\TotalBet.deps.json
+C:\Workcode\TotalBet\TotalBet\bin\Debug\net6.0-windows\TotalBet.runtimeconfig.json
+C:\Workcode\TotalBet\TotalBet\bin\Debug\net6.0-windows\TotalBet.dll
+C:\Workcode\TotalBet\TotalBet\bin\Debug\net6.0-windows\TotalBet.pdb
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\TotalBet.csproj.AssemblyReference.cache
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\TotalBet.Form1.resources
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\TotalBet.csproj.GenerateResource.cache
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\TotalBet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\TotalBet.AssemblyInfoInputs.cache
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\TotalBet.AssemblyInfo.cs
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\TotalBet.csproj.CoreCompileInputs.cache
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\TotalBet.dll
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\refint\TotalBet.dll
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\TotalBet.pdb
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\TotalBet.genruntimeconfig.cache
+C:\Workcode\TotalBet\TotalBet\obj\Debug\net6.0-windows\ref\TotalBet.dll
